@@ -10,7 +10,7 @@ body{
 
 /* stile container titolo e paragrafo */
 .container{
-  width: 70%;
+  width: 90%;
   max-width: 1170px;
   margin: 0 auto;
 }
